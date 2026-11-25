@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 **Name:** Kalyani Menon  
-**Roll Number:** [Your Roll Number]  
+**Roll Number:** R25EQ033
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
@@ -10,4 +10,4 @@ Personal LeetCode practice log — part of B25GE0101 portfolio
 - [Basic Algorithms](./basic-algorithms)
 - [Stacks](./stacks)
 - [Linked Lists](./linked-lists)
-- [Progress Tracker](./PROGRESS.md)[cite: 1]
+- [Progress Tracker](./PROGRESS.md)
